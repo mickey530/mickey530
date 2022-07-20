@@ -3,7 +3,7 @@
 
 
 <hr/>
-<div align=center><h3>📚 STACKS</h3></div>
+<div><h3>📚 STACKS</h3></div>
 
 <h6>
   <div align=center> 
@@ -20,8 +20,12 @@
 </h6>
 
 
-
-
+<div><h3>✏️ STUDY/h3></div>
+<h6>
+  <div align=center> 
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  </div>
+</h6>
 
 
 <!--
